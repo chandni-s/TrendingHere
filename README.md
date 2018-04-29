@@ -3,7 +3,7 @@
 ## by dreamTeam
 # Members:
 *  [Henry Liu](https://www.linkedin.com/in/henryliu25/)
-*  [Chandni Sehgal] (www.linkedin.com/in/chandnisehgal)
+*  [Chandni Sehgal](www.linkedin.com/in/chandnisehgal)
 *  Raph Alviz
 
 # Description:
