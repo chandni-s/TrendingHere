@@ -2,8 +2,8 @@
 
 ## by dreamTeam
 # Members:
-*  Henry Liu
-*  Chandni Sehgal
+*  [Henry Liu](https://www.linkedin.com/in/henryliu25/)
+*  [Chandni Sehgal] (www.linkedin.com/in/chandnisehgal)
 *  Raph Alviz
 
 # Description:
