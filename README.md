@@ -1,7 +1,5 @@
 # Trending Here 
-[Video] (https://youtu.be/YSd5X2comws)
 
-[URL] (https://trending-here.herokuapp.com/)
 ## by dreamTeam
 # Members:
 *  Henry Liu

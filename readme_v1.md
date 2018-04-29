@@ -186,3 +186,7 @@ curl -k -X GET --cookie ./cookieFile http://localhost:3000/api/chats/search/near
 ```
 curl -k -X GET --cookie ./cookieFile http://localhost:3000/api/search/trend/cscc09
 ```
+
+[Video] (https://youtu.be/YSd5X2comws)
+
+[URL] (https://trending-here.herokuapp.com/)
