@@ -3,10 +3,10 @@ var Memcached = require('memcached');
 var memcached = new Memcached('localhost:11211');
 
 var client = new Twitter({
-    consumer_key: 'nbPjCwvfnuFmflLGcXCLBjNaP',
-    consumer_secret: 'ioEZpV4psKARxQgWYOD8nff6dQGUtNJpFkLp9Q7Rybe2jnoezQ',
-    access_token_key: '3193500684-QVVBNqiz2ghu5B047iO6R1bw8TH2slO7jLsjVv3',
-    access_token_secret: 'fpgoNjlTe7eTDSNeVwSenpLEm0Gf3IVNj9ZPTP474bBpy'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token_key: '',
+    access_token_secret: ''
 });
 
 
